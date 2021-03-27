@@ -14,10 +14,9 @@ This model will bring some valuable insight for sports experts and coaches befor
 - [Different Machine Learning techniques used to predict results](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1718-ug-projects/Corentin-Herbinet-Using-Machine-Learning-techniques-to-predict-the-outcome-of-profressional-football-matches.pdf)
 - [Predicting results based on player ratings from EA Sports](https://towardsdatascience.com/predicting-premier-league-odds-from-ea-player-bfdb52597392)
 <br>
-<br>
-## Our approach
 
-We would like to approach the problem of predicting results based on general statistics of historical matches, as well as, statistics of every team provided in FIFA 11, FIFA 15, FIFA 16 available in the following data source: <br>
+## Our approach
+We would like to meet the problem of predicting results based on general statistics of historical matches, as well as, statistics of every team provided in FIFA 11, FIFA 15, FIFA 16 available in the following data source: <br>
 https://www.kaggle.com/hugomathien/soccer
 
 ### Input parameters:
@@ -34,11 +33,12 @@ https://www.kaggle.com/hugomathien/soccer
 - points scored in the last matches with this exact opponent
 - results of recently played matches of home team and away team
 
-### Output
+### Output:
 The predicted outcome of the match (win of the home team, defeat of the home team, or a draw).
 <br>
 <br>
-### Methods
+
+### Methods used:
 1.	Logistic regression
 2.	XGBoost
 3.	Random Forest
