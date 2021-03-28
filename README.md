@@ -46,3 +46,11 @@ The predicted outcome of the match (win of the home team, defeat of the home tea
 ### Indexes which will be used to assess the methods:
 - Accuracy (number of correct predictions over total number of predictions)
 - F1 Score
+
+<br>
+<br>
+
+# Authors:
+
+Dominik Jakubowski <br>
+Michał Laskowski <br>
