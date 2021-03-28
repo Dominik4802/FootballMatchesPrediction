@@ -43,11 +43,10 @@ The predicted outcome of the match (win of the home team, defeat of the home tea
 2.	XGBoost
 3.	Random Forest
 
-### Indexes which will be used to assess the methods:
+### Indexes used to assess the methods:
 - Accuracy (number of correct predictions over total number of predictions)
 - F1 Score
 
-<br>
 <br>
 
 # Authors:
